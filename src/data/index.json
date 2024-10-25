@@ -1,0 +1,72 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Data Structures and Algorithms",
+      "description": "Proficient in Data Structures and Algorithms (DSA), with hands-on experience in solving complex problems and optimizing code for efficiency."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "Database Management System",
+      "description": "Skilled in Database Management Systems with expertise in SQL, data modeling, normalization, and using tools like MySQL and PostgreSQL."
+    },
+    {
+      "id": "3",
+      "src": "./img/product-chain-1.png",
+      "title": "Full-stack Development",
+      "description": "Experienced in full-stack development, including both front-end and back-end technologies, with a focus on building robust and scalable applications."
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Object Oriented Programming",
+      "description": "Skilled in Object-Oriented Programming (OOP) principles, including design patterns, inheritance, and encapsulation, applied to create maintainable and efficient code."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "FreshBite",
+      "description": "The Food Ordering App is a full-stack application built with the MERN (MongoDB, Express, React, Node.js) stack. It allows users to browse restaurants, place orders, and manage their accounts. This project demonstrates the integration of various technologies to create a comprehensive food ordering system.",
+      "link": "https://github.com/vikas107sharma/FreshBite",
+      "live": "https://mern-food-ordering-app-frontend-sjbu.onrender.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Skill Academy",
+      "description": "Developed a full-stack online learning platform using Next.js, TypeScript, and MySQL. Features include course creation, multimedia management with Mux, payment processing via Stripe, and user authentication through Clerk, enabling instructors and users to manage and track course performance.",
+      "link": "https://github.com/vikas107sharma/academy",
+      "live": "https://academy-sable.vercel.app/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
